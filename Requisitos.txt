@@ -1,0 +1,11 @@
+ 
+ instalar    Flask-MySQLdb     en el pycharm
+
+
+ En bases de datos, el término cursor se refiere a una estructura de control utilizada para el recorrido
+  (y potencial procesamiento) de los registros del resultado de una consulta.
+Un cursor se utiliza para el procesamiento individual de las filas devueltas por el sistema gestor de base de datos
+ para una consulta. Es necesario debido a que muchos lenguajes de programación sufren de lo que en inglés se conoce como impedance mismatch.
+  Por norma general los lenguajes de programación son procedurales y no disponen de ningún mecanismo para manipular conjuntos de datos
+   en una sola instrucción. Debido a ello, las filas deben ser procesadas de forma secuencial por la aplicación.
+    Un cursor puede verse como un iterador sobre la colección de filas que habrá en el set de resultados.
