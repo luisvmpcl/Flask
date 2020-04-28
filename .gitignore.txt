@@ -1,3 +1,3 @@
-.idea/
-.vend/
+idea/
+vend/
 .bdresumen
